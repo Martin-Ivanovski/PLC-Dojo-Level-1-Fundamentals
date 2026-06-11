@@ -7,12 +7,14 @@ Completion of PLC Dojo Level 1 covering the foundational elements of PLC ladder 
 Level 1 Complete -- Certificate of completion below. 
 
 ## Topics Covered 
-- Normally Open (NO) and Normally Closed (NC) contacts 
-- Output coils and energize/de-energize logic 
-- Timer On Delay (TON) and Timer Off Delay (TOF) 
-- Retentive Timer (RTO) 
-- Counter Up (CTU) and Counter Down (CTD) 
-- Seal-in logic and latch/unlatch coils 
+- Programming Fundamentals (XIO, XIC, OTE instructions; Timer and Counter Instructions; Comparators; Mathematical Operators)
+- Digital and Analog IO
+- Analog Process Control
+- HOA and PID Control
+- Seal-in logic and latch/unlatch coils
+- Alarms and Notifications
+- HMI (Human Machine Interface)
+- Communications
 - Basic program structure and rung organization 
 
 ## Note on Level 1 
