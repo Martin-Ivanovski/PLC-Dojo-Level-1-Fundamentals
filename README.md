@@ -1,7 +1,7 @@
 # PLC Dojo -- Level 1: Fundamentals 
 
 ## Overview 
-Completion of PLC Dojo Level 1 covering the foundational elements of PLC ladder logic programming using Allen-Bradley RSLogix 500 / Studio 5000. 
+Completion of PLC Dojo Level 1 covering the foundational elements of PLC ladder logic programming using Allen-Bradley RSLogix 500.
 
 ## Certification 
 Level 1 Complete -- Certificate of completion below. 
