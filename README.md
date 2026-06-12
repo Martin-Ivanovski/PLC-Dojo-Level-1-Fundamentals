@@ -4,7 +4,8 @@
 Completion of PLC Dojo Level 1 covering the foundational elements of PLC ladder logic programming using Allen-Bradley RSLogix 500.
 
 ## Certification 
-Level 1 Complete -- Certificate of completion below. 
+Level 1 Complete <img width="746" height="594" alt="PLC Dojo Level 1  - PLC Fundamentals Certification" src="https://github.com/user-attachments/assets/81e6b1d5-9a19-482a-9b72-6fb2e76cac6d" />
+
 
 ## Topics Covered 
 - Programming Fundamentals (XIO, XIC, OTE instructions; Timer and Counter Instructions; Comparators; Mathematical Operators)
